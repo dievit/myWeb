@@ -12,6 +12,7 @@ O **My Profile** é um portfólio online que permite a visualização de um curr
 - **TypeScript**: Superset do JavaScript que adiciona tipagem estática.
 - **Vite**: Ferramenta de build rápida para desenvolvimento com React.
 - **CSS**: Para estilização do projeto.
+- **Materialize/CSS**: Para estilização e utilização de componentes prontos.
 - **ESLint**: Para garantir que o código siga padrões de qualidade e consistência.
 
 ## 🚀 Como Rodar o Projeto
