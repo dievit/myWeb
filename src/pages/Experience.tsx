@@ -1,7 +1,5 @@
 import  React, { useEffect } from 'react'; 
 import useFavicon from '../hooks/useFavicon';
-import smart from '../assets/logo-smart-2023.jpg';
-import hti from '../assets/hti.jpg'
 
 const Experience: React.FC = () => {
     useFavicon(import.meta.env.BASE_URL + "src/assets/school_24dp.svg");
