@@ -1,5 +1,9 @@
 # My Profile - Web Resume
 
+## Confira meu site em:   
+ 🔗  <a href="https://my-web-pi-jade.vercel.app/">www.myWeb.com</a>
+
+
 **My Profile** é um projeto de **web-resume** desenvolvido com **React**, **TypeScript**, e **Vite**. Este projeto visa criar um site simples e moderno para apresentar suas informações profissionais, como experiência, educação, e habilidades.
 
 ## 📖 Descrição
