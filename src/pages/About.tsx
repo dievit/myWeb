@@ -20,7 +20,7 @@ const About: React.FC = () => {
                 Minha experiência em programação e projetos vem, em grande parte, dos <strong>Projetos Integradores (APIs)</strong> desenvolvidos na própria FATEC. A cada semestre, criamos projetos que envolvem <strong>programação e metodologia ágil Scrum,</strong> proporcionando uma vivência próxima do mercado de trabalho.
 
                 No terceiro semestre de ADS, tive uma experiência enriquecedora ao atuar como Product Owner em um projeto real para a <strong><a href="https://www.pro4tech.com.br/" target="_blank" rel="noopener noreferrer">Pro4Tech.</a></strong> Desenvolvemos um <strong>dashboard para lançamento e controle de comissões,</strong> utilizando <strong>React-TS, Node.js e SQL.</strong> Foi uma oportunidade incrível para aplicar o conhecimento adquirido e entender ainda mais sobre o desenvolvimento de software em um cenário corporativo. 
-                No atual semestre de Banco de Dados, estou desenvolvendo um projeto em Java Desktop para gerenciamento de horários de aula da <strong><a href="https://fatecsjc-prd.azurewebsites.net/" target="_blank" rel="noopener noreferrer">FATEC São José dos Campos</a></strong> e neste projeto, estou tendo a oportunidade de atuar como <strong>Scurm Master</strong> da minha equipe.
+                No atual semestre de Banco de Dados, estou desenvolvendo um projeto em Java Desktop para gerenciamento de horários de aula da <strong><a href="https://fatecsjc-prd.azurewebsites.net/" target="_blank" rel="noopener noreferrer">FATEC São José dos Campos</a></strong> e neste projeto, estou tendo a oportunidade de atuar como <strong>Scrum Master</strong> da minha equipe.
                 </p>
             </div>
                 <h3><strong>O Futuro</strong></h3>
